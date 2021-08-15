@@ -10,6 +10,7 @@ customer service that assists the user with isses they are having with their clo
 To use the program:
 - Compile and run TreeDriver.java. 
 - Select L for Load Tree, then type in SampleHelp.txt to load the sample tree. 
+
 The user can now:
 - Begin a help session, which asks them questions to find the issue with their clothes washer
 - Traverse the tree in order, which prints out all of the nodes of the tree in order. 
